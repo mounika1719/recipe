@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  position: absolute;
+  top: 15%;
+  left: 20%;
+  margin-top: -50px;
+  margin-left: -55px;
+  margin-right: -50px;
+  width: 900px;
+  height: 700px;
+  background-image: url("https://cdn.hipwallpaper.com/i/90/57/5mjO1f.jpg");
+}
+.container {
+  display: inline-block;
+  vertical-align: top;
+}
+.container1 {
+  display: inline-block;
+}
+.data {
+  top: 50%;
+  list-style-type: square;
+  font-style: italic;
+  font-size: 14px;
+}
+.prep {
+  margin-left: 30%;
+  margin-top: 5px;
+}
+.ing {
+  margin-top: 5px;
+  left: 10px;
+}
+.pic {
+  height: 200px;
+  width: 200px;
+}
